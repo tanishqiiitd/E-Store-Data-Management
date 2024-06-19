@@ -46,11 +46,12 @@ A database system is the most essential component needed by an internet site, am
 
 ### 2.2 Entity Relation Diagram
 
-![ER diagram](https://https://github.com/tanishqiiitd/E-Store-Data-Management/blob/main/pngs/ER.png)
+inside the pngs folder
 
 ### 2.3 Relational Database Schema
 
-![Relational diagram](https://https://github.com/tanishqiiitd/E-Store-Data-Management/blob/main/pngs/RELATIONAL.png)
+inside the pngs folder
+
 
 ## 3. Implementation
 
